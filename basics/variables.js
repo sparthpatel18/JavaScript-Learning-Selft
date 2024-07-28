@@ -7,4 +7,4 @@ console.log(accountNmae);
 console.log(accountCity);
 console.log(accountEmail);
 
-console.log([accountCity,accountEmail,accountId,accountNmae]);
+console.log([accountCity,accountEmail,accountId,accountNmae,accountId]);
